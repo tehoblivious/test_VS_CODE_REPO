@@ -8,6 +8,6 @@ this is another line
 
 ## smol title
 
-Refer some things
-More changes
-More
+- Refer some things
+- More changes
+- More
